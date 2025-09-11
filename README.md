@@ -1,0 +1,2 @@
+# Wise Theme for Remnote 🦉
+

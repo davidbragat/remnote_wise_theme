@@ -1,0 +1,17 @@
+{
+  "manifestVersion": 1,
+  "id": "dark_wise_theme",
+  "name": "Wise Theme Dark",
+  "author": "davidbrgat",
+  "repoUrl": "",
+  "enableOnMobile": true,
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 10
+  },
+  "theme": ["dark"],
+  "description": "Wise theme for RemNote. Requires dark mode.",
+  "requestNative": false,
+  "requiredScopes": []
+}
